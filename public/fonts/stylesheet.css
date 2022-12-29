@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'HelveticaExtended';
+    src: url('HelveticaExtendedBQ-Bold.woff2') format('woff2'),
+        url('HelveticaExtendedBQ-Bold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
